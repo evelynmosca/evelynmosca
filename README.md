@@ -25,5 +25,3 @@ Meu nome é Evelyn, tenho 19 anos e aqui estão algumas coisas sobre mim:
     style="padding: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
-![Snake animation](https://github.com/evelynmosca/evelynmosca/blob/output/github-contribution-grid-snake.svg)
