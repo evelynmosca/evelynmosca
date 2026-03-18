@@ -18,7 +18,8 @@ jobs:
         with:
           github_user_name: evelynmosca
           outputs: |
-            dist/snake.svg?color_snake=#a855f7&color_dots=#0d1117,#1f2937,#334155,#60a5fa,#93c5fd
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push
         uses: crazy-max/ghaction-github-pages@v4
