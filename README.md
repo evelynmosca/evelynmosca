@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo!👋
 
-Meu nome é Evelyn, tenho 19 anos e aqui estão algumas coisas sobre mim:
+Meu nome é Evelyn, tenho 20 anos e aqui estão algumas coisas sobre mim:
 
 - 🔭 Atualmente faço parte da 20° turma de Soluções Digitais da Bosch
 - 🌱 Tenho certificado de programação em Python na SENAI "Roberto Mange"
